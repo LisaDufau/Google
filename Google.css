@@ -1,0 +1,130 @@
+header
+{
+	display: flex;
+	justify-content: flex-end;
+	align-items: center;
+}
+
+.gmail, .image, .app, .Connexion
+{
+	display: flex;
+	margin-right: 3px;
+	margin-left: 3px;
+}
+
+.Connexion
+{
+	display: :flex;
+	justify-content: center;
+	align-items: center;
+	margin-right: 10px;
+	padding: 7px 15px 7px 15px;
+	border: none;
+	border-radius: 5px;
+	background: rgb(93,133,242);
+}
+#conteneur
+{
+	display : flex;
+	justify-content: center;
+	flex-direction: column;
+	align-items: center;
+	border: 1px ;
+	height: 690px;	
+
+}
+
+
+.logogoogle
+{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-bottom: 8px
+
+
+}
+
+.barre
+{
+	display: :flex;
+	justify-content: center;
+	align-items: center;
+	border: 1px ;
+    font-size: 15px;
+    color: #222222;
+    background-color: #f8f8f8;
+    padding: 7px 15px 7px 15px;
+    border-radius: 25px;
+	margin-bottom: 20px;
+	width: 450px;
+	height: 40px;
+
+
+}
+
+.button1, .button2
+{
+	display: :flex;
+	justify-content: center;
+	align-items: center;
+	margin-right: 10px;
+	padding: 7px 15px 7px 15px;
+	border: none;
+	border-radius: 5px;
+	background: rgb(235,235,235);
+	color: grey;
+
+}
+
+footer
+{
+	background: rgb(242,242,242);
+}
+
+
+a, p 
+{
+    text-decoration: none;
+    color: rgba(0,0,0,0.87);
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.footerright
+{
+	display: flex;
+	justify-content: flex-end;
+	align-items: center;
+
+}
+
+.footerleft
+{
+	display: flex;
+	justify-content: flex-start;
+	align-items: center;
+
+	
+}
+
+.pub, .entreprise, .apropos, .comment, .info, .conf, .cond, .parametres
+{
+	display: flex;
+	margin-right: 5px;
+	margin-left: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
